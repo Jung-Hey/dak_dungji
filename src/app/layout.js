@@ -10,7 +10,7 @@ export const metadata = {
     icon: "/logo.jpg",
   },
   openGraph: {
-    images: "/logo.jpg", 
+    images: "https://www.chickennest.shop/logo.jpg", 
     imageAlt: "닭둥지 로고", 
     description: "닭요리 NO.1 닭둥지. 닭둥지에서 최고의 닭요리를 경험하세요! 맛과 품질에서 최상의 선택!",
     type: "website",
