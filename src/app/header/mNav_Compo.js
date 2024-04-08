@@ -1,7 +1,7 @@
 'use client';
 import React, { useState,useEffect } from 'react';
 import Link from "next/link";
-export default function mNavCompo() {
+export default function MNavCompo() {
   const [visible, setVisible] = useState(false);
   //토글함수
   const toggleVisibility = () => {
