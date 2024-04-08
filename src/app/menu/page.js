@@ -148,7 +148,7 @@ export default function Menu() {
                     <div></div>
                     <div className="text-center p-1 text-lg main_col font-semibold">500원</div>
                     <div className="text-center p-4 text-lg">
-                        닭 한마리 추가 비용은 단돈 "500원"입니다. 이 500원은 매달 기부금에 사용됩니다.
+                        닭 한마리 추가 비용은 단돈 &quot;500원&quot;입니다. 이 500원은 매달 기부금에 사용됩니다.
                     </div>
                     <div className="pb-4">
                         <div className="menu_Detail_Btn font-medium" data-src="/menu/menu_8.jpeg" onClick={showDetail}>자세히 보기</div>
