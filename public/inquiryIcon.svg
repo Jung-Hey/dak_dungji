@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85.264" height="98.727" viewBox="0 0 85.264 98.727">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.819" y1="0.936" x2="0.19" y2="0.078" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#115c5e"/>
+      <stop offset="1" stop-color="#4e9698"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_115" data-name="그룹 115" transform="translate(-1992 -907.667)">
+    <g id="그룹_114" data-name="그룹 114" transform="translate(1992 907.667)">
+      <ellipse id="타원_8" data-name="타원 8" cx="42.632" cy="43.081" rx="42.632" ry="43.081" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <path id="다각형_1" data-name="다각형 1" d="M7.629,0l7.629,13.463H0Z" transform="translate(50.261 98.727) rotate(180)" fill="#115c5e"/>
+    </g>
+    <g id="그룹_113" data-name="그룹 113" transform="translate(2007.556 929.296)">
+      <g id="그룹_112" data-name="그룹 112" transform="translate(0)">
+        <path id="패스_19" data-name="패스 19" d="M292.643,594.234a8.3,8.3,0,0,1,0,16.6" transform="translate(-246.788 -576.932)" fill="#115c5e" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="패스_20" data-name="패스 20" d="M223.038,594.234a8.3,8.3,0,1,0,0,16.6" transform="translate(-214.74 -576.932)" fill="#115c5e" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="패스_21" data-name="패스 21" d="M228.983,598.574V583.533a18.748,18.748,0,0,1,18.693-18.693h0a18.748,18.748,0,0,1,18.693,18.693v15.041" transform="translate(-220.599 -564.84)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <path id="패스_22" data-name="패스 22" d="M262.648,630.221a8.959,8.959,0,0,1-12.669,0" transform="translate(-229.237 -591.736)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
